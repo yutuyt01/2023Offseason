@@ -1,0 +1,6 @@
+https://docs.wpilib.org/en/stable/docs/software/kinematics-and-odometry/intro-and-chassis-speeds.html 
+Wpilib documentation - the whole section on the left (barring the differential drive) is a good read for more insight into the classes used.
+Essentially, the FRC library has a lot of tools that streamline the process of creating swerve drive code. 
+It cuts out a lot of math that underlines how the fieldcentric swerve works (and that I didn't take the time to understand)
+https://www.youtube.com/watch?v=0Xi9yb1IMyA Zero to autonomous video that's a must watch.
+Most of the swerve code is directly from this video. It's important though to understand how it all works.
